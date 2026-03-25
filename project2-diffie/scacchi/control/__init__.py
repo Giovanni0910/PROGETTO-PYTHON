@@ -1,0 +1,1 @@
+"""control package for the Scacchi game."""

@@ -1,0 +1,1 @@
+"""entity package for the Scacchi game."""
